@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-proj-test/static/css/main.f6db8bcc.css",
+    "main.js": "/react-proj-test/static/js/main.eddce055.js",
+    "static/js/787.b52190a6.chunk.js": "/react-proj-test/static/js/787.b52190a6.chunk.js",
+    "static/media/tourney.svg": "/react-proj-test/static/media/tourney.994ccc6a3d841ef16b7f1a09243715c4.svg",
+    "static/media/Time.svg": "/react-proj-test/static/media/Time.06b0c6daba91a872ec3a97501e9e0f69.svg",
+    "index.html": "/react-proj-test/index.html",
+    "static/media/clock.svg": "/react-proj-test/static/media/clock.7c2ecc3bc68e1b367ef97c88677abc36.svg",
+    "static/media/players.svg": "/react-proj-test/static/media/players.3a15d059bb65bf00d1865f6a55b5e5dc.svg",
+    "static/media/FreeRoll.svg": "/react-proj-test/static/media/FreeRoll.b025e4280224c225c3c50ccb3d2ba8ed.svg",
+    "static/media/Rapid.svg": "/react-proj-test/static/media/Rapid.5ee5b5f8b3cfbec605363b40fbb69d0e.svg",
+    "main.f6db8bcc.css.map": "/react-proj-test/static/css/main.f6db8bcc.css.map",
+    "main.eddce055.js.map": "/react-proj-test/static/js/main.eddce055.js.map",
+    "787.b52190a6.chunk.js.map": "/react-proj-test/static/js/787.b52190a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6db8bcc.css",
+    "static/js/main.eddce055.js"
+  ]
+}
